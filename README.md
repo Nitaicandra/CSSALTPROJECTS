@@ -5,16 +5,16 @@
 
 - This simulation will be connected to a colocated spinal block and used to train medical students how to perform spinal injections using ultrasound
 
-LFA SHORTCUTS 
+## LFA SHORTCUTS 
 https://vam.anest.ufl.edu/websims/APSF_LFA_Tour/
 
-LFA PLOTTER
+## LFA PLOTTER
 
 
-TRENDLEBURG
+## TRENDLEBURG
 https://vam.anest.ufl.edu/websims/BPArtifact/
 
-SKIN UI 
+## SKIN UI 
 
 
 
