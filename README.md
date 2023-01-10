@@ -16,7 +16,8 @@ https://vam.anest.ufl.edu/websims/APSF_LFA_Tour/
 
 ## TRENDLEBURG
 https://vam.anest.ufl.edu/websims/BPArtifact/
-![Blood_Pressure_Measurement_Hydrostatic_Artifact_—__26443_01_2023](https://user-images.githubusercontent.com/89361982/211647160-9526fdcb-7e99-4be1-9fd5-5c5d8d0a7176.gif)
+![Blood_Pressure_Measurement_Hydrostatic_Artifact_—__26443_01_2023](https://user-images.githubusercontent.com/89361982/211647497-de97f269-52e9-4014-bddc-ae45dcba443f.gif)
+
 
 ## SKIN UI 
 
