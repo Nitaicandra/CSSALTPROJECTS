@@ -7,12 +7,12 @@
 
 ## LFA SHORTCUTS 
 https://vam.anest.ufl.edu/websims/APSF_LFA_Tour/
+![Unity_WebGL_Player__APSF_Technology_Education_Init_54227_01_2023](https://user-images.githubusercontent.com/89361982/211476847-b9be483f-761a-4f99-a26d-234a2ec3a052.gif)
 
-![Unity_WebGL_Player__APSF-LFA-0_—_Firefox_Developer_40004_01_2023](https://user-images.githubusercontent.com/89361982/211482474-01718514-deea-411d-96f1-285a89244b2b.gif)
 
 ## LFA PLOTTER
+![Unity_WebGL_Player__APSF-LFA-0_—_Firefox_Developer_40004_01_2023](https://user-images.githubusercontent.com/89361982/211482474-01718514-deea-411d-96f1-285a89244b2b.gif)
 
-![Unity_WebGL_Player__APSF_Technology_Education_Init_54227_01_2023](https://user-images.githubusercontent.com/89361982/211476847-b9be483f-761a-4f99-a26d-234a2ec3a052.gif)
 
 ## TRENDLEBURG
 https://vam.anest.ufl.edu/websims/BPArtifact/
