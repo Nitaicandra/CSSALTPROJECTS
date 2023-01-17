@@ -4,13 +4,13 @@
 https://simulation.health.ufl.edu/technology-development/augmented-reality-mixed-simulation/ra-sim/challenging-spinal-simulator/
 ![3miWestafricanantelopeUnity_2019 1 1f1_Personal_-_ PREVIEW_PACKAGES_IN_U17_08_2022](https://user-images.githubusercontent.com/89361982/185233592-14774526-7486-4631-8190-be1fbe0a8a4a.gif)
 
-- I was the lead developer for this simulation, it will be used to train medical students on how to perform spinal injections using ultrasound imaging, the unity models will be colocated 
+- I was the lead developer for Cssalts Challenging Spinal Simulation, it will be used to train medical students on how to properly perform spinal injections using ultrasound imaging, the unity models will be colocated to real world and students will be injecting into a balistic gel model of the human back.
 
 ## LFA SHORTCUTS 
 https://vam.anest.ufl.edu/websims/APSF_LFA_Tour/
 
 ![Unity_WebGL_Player__APSF_Technology_Education_Init_54227_01_2023](https://user-images.githubusercontent.com/89361982/211476847-b9be483f-761a-4f99-a26d-234a2ec3a052.gif)
-- I made the shortcut and animation system for the introductory tutorial to the APSF-LFA project.
+- I made the shortcut and animation system for the APSF-LFA's introductory tutorial.
 
 ## LFA PLOTTER
 http://vam.anest.ufl.edu/websims/APSF_LFA_Model/
