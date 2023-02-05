@@ -29,7 +29,7 @@ https://vam.anest.ufl.edu/websims/BPArtifact/
 - I redesigned a legacy simulation to use unity's canvas ui.
 
 
-![NVIDIA_GeForce_Overlay_DT_36918_02_2023](https://user-images.githubusercontent.com/89361982/216804358-8c16ad46-7264-447e-8477-b8f05db00d2f.gif)
-![NVIDIA_GeForce_Overlay_DT_29528_02_2023](https://user-images.githubusercontent.com/89361982/216804425-d2f3be31-146d-4fe5-8f3a-3b0ff8170140.gif)
+|![NVIDIA_GeForce_Overlay_DT_36918_02_2023](https://user-images.githubusercontent.com/89361982/216804358-8c16ad46-7264-447e-8477-b8f05db00d2f.gif)|
+![NVIDIA_GeForce_Overlay_DT_29528_02_2023](https://user-images.githubusercontent.com/89361982/216804425-d2f3be31-146d-4fe5-8f3a-3b0ff8170140.gif)|
 
 - Created the Cssalt and Anesthesiology animations using Blender.
