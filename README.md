@@ -4,7 +4,7 @@
 https://simulation.health.ufl.edu/technology-development/augmented-reality-mixed-simulation/ra-sim/challenging-spinal-simulator/
 ![3miWestafricanantelopeUnity_2019 1 1f1_Personal_-_ PREVIEW_PACKAGES_IN_U17_08_2022](https://user-images.githubusercontent.com/89361982/185233592-14774526-7486-4631-8190-be1fbe0a8a4a.gif)
 
-- I was the lead developer for Cssalts Challenging Spinal Simulation, it will be used to train medical students on how to properly perform spinal injections using ultrasound imaging, the unity models will be colocated to real world and students will be injecting into a balistic gel model of the human back.
+- I was the lead developer for Cssalt's Challenging Spinal Simulation, it will be used to train medical students on how to properly perform spinal injections using ultrasound imaging. The unity models are colocated to real world analogs, meaning the students will be physically injecting a syringe into a balistic gel model of the human back while using a ultrasound probe sensor to visualize the spine on the screen from within the simulation.
 
 ## LFA SHORTCUTS 
 https://vam.anest.ufl.edu/websims/APSF_LFA_Tour/
