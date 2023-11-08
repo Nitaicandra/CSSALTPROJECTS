@@ -28,10 +28,10 @@ https://vam.anest.ufl.edu/websims/BPArtifact/
 ![iPrep5_-_iPrep_-_Windows,_Mac,_Linux_-_Unity_2021 _74115_01_2023](https://user-images.githubusercontent.com/89361982/211647839-5bb169b6-743d-406d-8168-daa7eda88a5e.gif)
 - I redesigned a legacy simulation to use unity's canvas ui.
 
-## Worked on the QNM Electrode Sim
+## QNM Electrode Sim
 ![unnamed](https://github.com/Nitaicandra/CSSALTPROJECTS/assets/89361982/99db1699-fcc8-415b-b5d7-fd9bced58f18)
 
-## Worked On Syringes For the QNMT Simulation
+## QNMT Syringe Simulation
 ![unnamed-1](https://github.com/Nitaicandra/CSSALTPROJECTS/assets/89361982/31f9999a-87e1-49f8-9ad4-fe07671bd88c)
 
 
